@@ -1,0 +1,58 @@
+﻿{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.NoIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.YesIntent",
+        "samples": []
+      },
+      {
+        "name": "AnfrageIntent",
+        "samples": [
+          "AnfrageIntent wer soll helfen",
+          "AnfrageIntent wer hat dienst",
+          "AnfrageIntent wer hat küchendienst",
+          "AnfrageIntent wer ist dran",
+          "AnfrageIntent wer muss aufräumen"
+        ],
+        "slots": []
+      },
+      {
+        "name": "PersonIntent",
+        "samples": [
+          "soll {FirstPerson} oder {SecondPerson} oder {ThirdPerson} helfen"
+        ],
+        "slots": [
+          {
+            "name": "FirstPerson",
+            "type": "AMAZON.DE_FIRST_NAME"
+          },
+          {
+            "name": "SecondPerson",
+            "type": "AMAZON.DE_FIRST_NAME"
+          },
+          {
+            "name": "ThirdPerson",
+            "type": "AMAZON.DE_FIRST_NAME"
+          }
+        ]
+      }
+    ],
+    "invocationName": "küchendienst"
+  }
+}
