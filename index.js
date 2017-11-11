@@ -1,6 +1,6 @@
 ﻿'use strict';
 const Alexa = require('alexa-sdk'); 
-const zufall = require('./bib/zufall');
+const zufall = require('./zufall');
 
 exports.handler = function (event, context, callback) { 
     var alexa = Alexa.handler(event, context);
