@@ -12,4 +12,13 @@ Programmierkenntnisse nicht so perfekt sind wird es wohl doch etwas schwieriger 
 Jetzt am Anfang soll auf die Frage "wer ist dran" oder "wer soll helfen" erst mal einer von 3 Namen zurück gegeben 
 werden bzw. wenn man fragt "soll {Name1} oder {Name2} oder {Name3} helfen" per Zufall einer der Namen zurück kommen.
 
-
+Leider ist mein Projekt etwas ins Abseits geraten und hatte nicht mehr weiter dran gearbeitet.
+Als ich mir allerdings heute in der Alexa-App neue Skills angesehen habe, finde ich dort einen Skill mit dem Namen
+"Wer ist dran" welcher jetzt ende Dezember 2017 veröffentlicht wurde.
+Ich würde sagen das ist genau das was ich Anfangs beschrieben habe. Genau so wollte ich es auch haben.
+Ob da jemand meine Idee übernommen(geklaut) hat???
+Egal!!!
+Ich bin mit der Umsetzung sehr zufrieden und finde das der Skill sehr gut geworden ist.
+Da ich sowieso noch nicht die nötigen programmier Kenntnisse habe und es jetzt meinen gewünschten Skill
+gibt, brauch ich mich auch nicht mehr drum zu kümmern.
+Damit ist das Projekt abgeschlossen.
